@@ -1,6 +1,6 @@
 {
   "name": "@satel/eslint-config-ts-react",
-  "version": "5.0.0-alpha.1",
+  "version": "5.0.0",
   "description": "Satel eslint config for typescript react apps",
   "license": "MIT",
   "authorss": [
@@ -28,7 +28,6 @@
     "@typescript-eslint/eslint-plugin": "4.30.0",
     "@typescript-eslint/parser": "4.30.0",
     "eslint-config-prettier": "8.3.0",
-    "eslint-plugin-import": "2.24.2",
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-react": "7.25.1",
     "eslint-plugin-react-hooks": "4.2.0",
