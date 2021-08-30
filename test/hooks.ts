@@ -7,5 +7,5 @@ export function useHook() {
     if (counter > 3) {
       console.log('Its bigger');
     }
-  }, []);
+  }, [counter]);
 }
