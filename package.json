@@ -1,6 +1,6 @@
 {
   "name": "@satel/eslint-config-ts-react",
-  "version": "5.0.0",
+  "version": "5.0.0-alpha.0",
   "description": "Satel eslint config for typescript react apps",
   "license": "MIT",
   "authorss": [
